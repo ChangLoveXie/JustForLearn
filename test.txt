@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 issue2
+=======
+stash
+>>>>>>> Stashed changes
 edit IN master & branch A
 
 
